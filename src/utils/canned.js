@@ -1,4 +1,4 @@
-import CANNED_SONGS from './canned-data.js';
+import CANNED_SONGS from './canned.data.js';
 
 // 25 = buddy holly, 27 = callmemaybe
 var LANDING_CANNED = CANNED_SONGS[27]; 
